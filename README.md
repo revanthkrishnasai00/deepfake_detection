@@ -77,10 +77,10 @@ output of the example
 
 ## Visualization
 
-### Example Image 1
+### Real Faces Detected
 ![Image 1](download.png)
 
-### Example Image 2
+### Fake Faces Detected
 ![Image 2](download%20(1).png)
 ---
 
