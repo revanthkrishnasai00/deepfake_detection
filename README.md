@@ -70,6 +70,9 @@ This project implements a Python-based approach to detect and compare real and f
 - **Similarity Score**:
   - Average MSE: **5144.94**
 
+output of the example
+
+
 ---
 
 ## Visualization
