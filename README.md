@@ -77,8 +77,11 @@ output of the example
 
 ## Visualization
 
-The project includes a function to visualize detected faces in grids for better qualitative analysis.
+### Example Image 1
+![Image 1](download.png)
 
+### Example Image 2
+![Image 2](download%20(1).png)
 ---
 
 ## Limitations
